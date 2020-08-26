@@ -12,6 +12,8 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 
 ### Bug fixes
 
+- Fix `Banner`’s `id` server/client mismatch ([#3199](https://github.com/Shopify/polaris-react/pull/3199)).
+
 ### Documentation
 
 ### Development workflow
