@@ -328,3 +328,7 @@ export enum Key {
 export interface CheckboxHandles {
   focus(): void;
 }
+
+export interface BannerHandles {
+  focus(): void;
+}
